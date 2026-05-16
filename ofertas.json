@@ -1,0 +1,38 @@
+[
+    {
+        "modelo": "Honda Civic",
+        "marca": "Honda",
+        "ano": 2022,
+        "preco": "98.000"
+    },
+    {
+        "modelo": "Toyota Corolla",
+        "marca": "Toyota",
+        "ano": 2023,
+        "preco": "110.000"
+    },
+    {
+        "modelo": "Hyundai HB20",
+        "marca": "Hyundai",
+        "ano": 2021,
+        "preco": "72.000"
+    },
+    {
+        "modelo": "Chevrolet Onix",
+        "marca": "Chevrolet",
+        "ano": 2022,
+        "preco": "76.000"
+    },
+    {
+        "modelo": "Volkswagen Polo",
+        "marca": "Volkswagen",
+        "ano": 2023,
+        "preco": "89.000"
+    },
+    {
+        "modelo": "Fiat Argo",
+        "marca": "Fiat",
+        "ano": 2022,
+        "preco": "68.000"
+    }
+]

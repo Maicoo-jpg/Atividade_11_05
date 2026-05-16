@@ -1,0 +1,32 @@
+[
+    {
+        "modelo": "Ford Ka 2019",
+        "positivo": "Econômico",
+        "negativo": "Porta-malas pequeno"
+    },
+    {
+        "modelo": "Gol 2018",
+        "positivo": "Manutenção barata",
+        "negativo": "Poucos opcionais"
+    },
+    {
+        "modelo": "Onix 2020",
+        "positivo": "Confortável",
+        "negativo": "Seguro caro"
+    },
+    {
+        "modelo": "HB20 2019",
+        "positivo": "Bom desempenho",
+        "negativo": "Espaço traseiro reduzido"
+    },
+    {
+        "modelo": "Corolla 2017",
+        "positivo": "Muito confiável",
+        "negativo": "Peças caras"
+    },
+    {
+        "modelo": "Civic 2018",
+        "positivo": "Excelente dirigibilidade",
+        "negativo": "Consumo elevado"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "modelo": "Honda HR-V",
+        "descricao": "SUV completo automático",
+        "preco": "145.000",
+        "foto": "imagens/model_main_webp_comprar-ex-honda-sensing_56c242fe7a.png.png"
+    },
+    {
+        "modelo": "Toyota Corolla Cross",
+        "descricao": "SUV moderno e econômico",
+        "preco": "170.000",
+        "foto": "imagens/Toyota.jpeg"
+    },
+    {
+        "modelo": "Jeep Compass",
+        "descricao": "SUV premium",
+        "preco": "189.000",
+        "foto": "imagens/jeep.jpg"
+    },
+    {
+        "modelo": "Fiat Pulse",
+        "descricao": "Compacto moderno",
+        "preco": "120.000",
+        "foto": "imagens/Fiat.jpg"
+    },
+    {
+        "modelo": "Chevrolet Tracker",
+        "descricao": "SUV confortável",
+        "preco": "154.000",
+        "foto": "imagens/chevo.png"
+    },
+    {
+        "modelo": "Volkswagen Nivus",
+        "descricao": "SUV esportivo",
+        "preco": "138.000",
+        "foto": "imagens/volk.jpg"
+    }
+]
